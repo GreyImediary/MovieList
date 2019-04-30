@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="img_desc">Movie poster</string>
+    <string name="img_star_desc">rating star</string>
+    <string name="short_desc">%s…</string>
+    <string name="budget">Бюджет: $ %s</string>
+    <string name="revenue">Сборы: $ %s</string>
+    <string name="runtime">Длительность: %s мин</string>
+    <string name="genres">Жанры: %s</string>
+    <string name="login_helper">Пароль</string>
+    <string name="button_text">Войти</string>
+    <string name="toolbar_title">Movie List</string>
+    <string name="wrong_pass">Неправильный пароль</string>
+    <string name="menu_exit">Выход</string>
+</resources>

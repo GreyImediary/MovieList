@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="card_text_layout_padding">16dp</dimen>
+    <dimen name="detailed_movie_text_padding">16dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="login_padding">16dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+</resources>
