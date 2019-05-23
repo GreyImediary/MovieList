@@ -3,13 +3,13 @@
     <string name="img_desc">Movie poster</string>
     <string name="img_star_desc">rating star</string>
     <string name="short_desc">%s…</string>
-    <string name="budget">Бюджет: $ %s</string>
-    <string name="revenue">Сборы: $ %s</string>
-    <string name="runtime">Длительность: %s мин</string>
-    <string name="genres">Жанры: %s</string>
-    <string name="login_helper">Пароль</string>
-    <string name="button_text">Войти</string>
+    <string name="budget">Budget: $ %s</string>
+    <string name="revenue">Revenue: $ %s</string>
+    <string name="runtime">Runtime: %s мин</string>
+    <string name="genres">Genres: %s</string>
+    <string name="login_helper">Password</string>
+    <string name="button_text">Log in</string>
     <string name="toolbar_title">Movie List</string>
-    <string name="wrong_pass">Неправильный пароль</string>
-    <string name="menu_exit">Выход</string>
+    <string name="wrong_pass">Wrong password</string>
+    <string name="menu_exit">Exit</string>
 </resources>

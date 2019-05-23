@@ -8,9 +8,9 @@ import retrofit2.http.Query
 
 interface MovieApi {
 
-    @GET("movie/popular?api_key=e204326fed074d12b61320ab34175e2d&language=ru")
+    @GET("movie/popular?api_key=e204326fed074d12b61320ab34175e2d&language=en")
     fun fetchMovies(@Query("page") page: Double): Observable<AnyMap>
 
-    @GET("movie/{movie_id}?api_key=e204326fed074d12b61320ab34175e2d&language=ru")
+    @GET("movie/{movie_id}?api_key=e204326fed074d12b61320ab34175e2d&language=en")
     fun fetchDetailedMovie(@Path("movie_id") movieId: Int): Observable<AnyMap>
 }
